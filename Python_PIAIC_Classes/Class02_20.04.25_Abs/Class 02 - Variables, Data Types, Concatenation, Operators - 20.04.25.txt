@@ -1,0 +1,27 @@
+========================================================
+Class 02 - Variables, Data Types, Concatenation, Operators - 20.04.25
+========================================================
+
+Today Class Topics:
+* Variables
+
+* Data Types:
+   - String
+   - Integer
+   - Float
+   - Boolean
+
+* Concatenation:
+   - FString (Formatted String) -->> used for mentioning string with variables
+   - Doc String (Document String) -->> use for multiple lines string/ multi line comments
+
+* Operators:
+   - Arithmetic Operators: +, -, *, /, %, **, //
+   - Assignment Operators: =, +=, -=, *=, /=, %=, **=, //=
+   - Comparison Operators: ==, !=, >, <, >=, <=
+   - Logical Operators: and, or, not
+
+Python Class 2 Code:
+https://github.com/OkashaTanoli/Piaic-Batch-71-Class-Code 
+
+

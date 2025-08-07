@@ -1,0 +1,28 @@
+=================================================================================
+			          Python Lectures Online
+=================================================================================
+Class 01 - Python Fundamentals for AI in Google Colab - 17.12.24 / 08.08.25
+Class 02 - Mastering Strings, F-Strings, Arithmetic & Assignment Operators in Python! - 24.12.24
+Class 03 - Mastering Boolean, Comparison Operators, Logical Operators and If-else in Python! - 31.12.24 
+Class 04 - What are Lists in Python? List Methods in Python - 07.01.25
+Class 05 - What are functions in Python. How to write Functions - 14.01.25
+Class 06 - Dictionary in Python. Why we need dictionary? Loops in Python. For & While Loops - 21.01.25
+
+================================================================================
+Class 01 - Python Fundamentals for AI in Google Colab - 17.12.24 / 08.08.25
+================================================================================
+Google Colaboratory (Google Colab):
+---------------------------------------------
+- Google Colab is a runtime environment of Python/ Jupyter Notebook
+- [filename.ipynb] --> Interactive Python Notebook
+
+
+
+
+
+
+Class 02 - Mastering Strings, F-Strings, Arithmetic & Assignment Operators in Python! - 24.12.24
+Class 03 - Mastering Boolean, Comparison Operators, Logical Operators and If-else in Python! - 31.12.24 
+Class 04 - What are Lists in Python? List Methods in Python - 07.01.25
+Class 05 - What are functions in Python. How to write Functions - 14.01.25
+Class 06 - Dictionary in Python. Why we need dictionary? Loops in Python. For & While Loops - 21.01.25

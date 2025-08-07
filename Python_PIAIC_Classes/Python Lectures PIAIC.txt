@@ -1,0 +1,10 @@
+=================================================================================
+			          Python Lectures PIAIC
+=================================================================================
+Class 01 - Introduction to Agentic AI - 13.04.25
+Class 02 - Variables, Data Types, Concatenation, Operators - 20.04.25
+Class 03 - Comments, Indentation, Variables Rules, Type Casting, Operators, If Statements - 27.04.25
+Class 04 - Functions, String Methods, Lists, List Methods - 04.05.25
+Class 05 - Function Basics, Key Terms, Lambda Function - 11.05.25
+Class 06 - Functions Recap, Types in Function (Type Hints), Dictionaries (Key-value pairs) - 18.05.25
+Class 07 - Callback Functions, Decorators, For Loop, List Comprehension, While Loop - 25.05.25

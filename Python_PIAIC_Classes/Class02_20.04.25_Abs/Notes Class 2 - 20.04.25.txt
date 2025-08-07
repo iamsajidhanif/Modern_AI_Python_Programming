@@ -1,0 +1,26 @@
+========================================
+Variables, Data Types, Concatenation, Operators
+========================================
+Homework:
+- Install VS Code
+- Install Python
+- Run your first python program on Vs Code and Colab
+- Create and Verify Discord account
+- Create Linkedin account
+- Create X account
+
+Slides:
+https://docs.google.com/presentation/d/1VNFGsCYMDT1VTe8W1wxFbmAwYsJ1I0Y-6CnTvuCEn98/edit#slide=id.g31410af5be2_0_413
+
+Google Colab:
+colab.google
+
+Course Outline:
+https://docs.google.com/document/d/15usu1hkrrRLRjcq_3nCTT-0ljEcgiC44iSdvdqrCprk/edit?usp=sharing 
+
+Everyone please join the Discord Server:
+https://discord.gg/FVwvbWsD 
+
+WhatsApp Group: (PIAIC Batch 71 Sunday)
+http://url2986.piaic.org/ls/click?upn=u001.Wh-2FZkoE0jNc7hQymyH-2FnWt07t5BXF6XJDtOn4mzMPlYUWa-2B95llnID-2F9Av8luYkiykz6MydNvD4-2FWMP-2BWntCcA-3D-3D2FqA_nMptk5umro20aiAy0sQSrtsqT3zuuKQiS3tP5ihkK9HTGDMsGx6T8PrtZT79ETrmzXLTMOi3WtLHHbsmxQEboc41HD7FVV8r72RLrCsszqyYWysC7raU1BWAJbu62f06pUT1v1GgobA-2F-2FsPzdiFIGnwys1C-2FLabpP13Jyx7PayeEzXsWWogtHsLcZxeOlM3f1TbevBfM8wfJQ4lLJLRIoA-3D-3D 
+

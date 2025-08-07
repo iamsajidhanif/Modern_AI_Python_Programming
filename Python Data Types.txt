@@ -1,0 +1,29 @@
+====================================================
+		Python Data Types
+====================================================
+1. Numeric
+• int - Whole numbers, positive or negative, without decimals. 12
+• float - Numbers with decimal points. 12.50
+• complex - Numbers with a real and imaginary part. 3 + 2y
+
+2. Sequence
+• str - A sequence of characters enclosed in quotes. "hamza"
+• list - An ordered, mutable collection. [1, 2, 3]
+• tuple - An ordered, immutable collection. (1, 2, 3)
+• range - Represents a sequence of numbers. range(1, 10, 2)
+
+3. Boolean - True or False. 
+
+4. Dictionary (Mapping)
+• dict - Key-value pairs. {"name": "Alice", "age": 25}
+
+5. Set
+• set - Unordered, Mutable, and contains unique values. {1, 2, 3}
+• frozenset  - Immutable version of a set. frozenset([1, 2, 3])
+
+6. None - No value. 
+
+7. Binary
+• bytes - An immutable sequence of bytes. 
+• bytearray - A mutable sequence of bytes. 
+• memoryview - The memoryview object in Python provides an efficient way to work with binary data by allowing you to access and manipulate the memory of another object (like bytes or bytearray) without copying the data. This is particularly useful when working with large datasets or binary streams, as it avoids the overhead of creating additional copies.
